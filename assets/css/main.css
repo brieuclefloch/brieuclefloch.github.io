@@ -688,17 +688,17 @@ bodyblanc
 {
   position:relative;
   top:-5px;
-    left:-2px;
+    left:-1px;
   color:##0f33ff;
-  font-size:18px;
+  font-size:10px;
   cursor:pointer;
 }
 
 .side-nav>li span
 {
   position:relative;
-  top:0px;
-  left:0px;
+  top:3px;
+  left:10px;
   color:##0f33ff;
   font-size:14px;
   font-weight:300;
@@ -710,7 +710,7 @@ bodyblanc
 {
   position:absolute;
   top:3px;
-  left:10px;
+  left:15px;
   color:##0f33ff;
   font-size:14px;
   font-weight:300;
